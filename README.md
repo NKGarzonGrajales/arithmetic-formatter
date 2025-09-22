@@ -14,8 +14,8 @@ python main.py
 
 
 1. Clona el repositorio
-git clone https://github.com/TU-USUARIO/arithmetic-formatter.git
-cd arithmetic-formatter
+git clone https://github.com/NKGarzonGrajales/arithmetic-formatter-py.git
+cd arithmetic-formatter-py
 
 2. Crea y activa un entorno virtual:
 python -m venv .venv
